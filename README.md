@@ -1,4 +1,4 @@
-This application is frontend of Proffy, a online studying plataform that you can This application is frontend of Proffy, a online studying plataform that you can find the best teachers for you.
+This application is frontend of Proffy, a online studying plataform that you can find the best teachers for you.
 
 
 ![](https://raw.githubusercontent.com/ymotse/proffy-web/master/screenshots-examples/proffy-web_01.png?token=AC3CBW3R6TLSER5K7BHB2SS7GNIEE)
