@@ -10,6 +10,10 @@
     font-size: 1.4rem;
 }
 
+#search-teachers select {
+    background: #fff;
+}
+
 .input-block input {
     width: 100%;
     height: 5.6rem;
